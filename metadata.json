@@ -1,0 +1,6 @@
+{
+  "name": "DJ Beano | UK Hardcore & Rave Artist",
+  "description": "Official interactive website for UK Hardcore & Rave DJ/Producer Luke Watkins (DJ Beano) from Hereford, UK. Founder of Sound Intentionz and resident at The Rave Alliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
